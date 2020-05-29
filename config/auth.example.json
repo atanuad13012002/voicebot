@@ -1,6 +1,6 @@
 {
-  "dev_ids": ["279935071165743105"],
-  "token": "yourdiscord.tokenhere",
+  "dev_ids": ["701289488911171617"],
+  "token": "NzE1MDkzOTEwMzU5Mzc1OTQy.XtCi4A.yuAW_A5HU4Uz1OIxxVKq6U0mHeY",
   "command_char" : "!",
   "logging" : {
     "err" : true,
@@ -8,7 +8,7 @@
   },
   "advertise_streamer": "myselfwhat",
   "supportServer":{
-    "id": "490087447758241793"
+    "id": "706702611226558517"
   },
   "pester_threshold": 100000,
   "twitch_audioQueue_limit": 10,
